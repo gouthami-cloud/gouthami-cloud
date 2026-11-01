@@ -7,10 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouthami-gcp/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/users/gouthami-gcp)
 
-<img src="banner.jpg" alt="Gouthami Banner" width="100%" />
-
-<br/><br/>
-
 ---
 
 </div>
@@ -178,5 +174,7 @@
 ---
 
 <div align="center">
+<img src="banner.jpg" alt="Gouthami Banner" width="100%" />
+
   <sub>Let's connect: <a href="https://www.linkedin.com/in/gouthami-gcp/">linkedin.com/in/gouthami-gcp</a></sub>
 </div>
