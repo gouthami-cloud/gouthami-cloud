@@ -1,11 +1,15 @@
 <div align="center">
 
+
 # Hi there, I'm Gouthami 👋
 ### 🛡️ Google Cloud Certified Security Engineer | Cloud Infrastructure & VAPT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouthami-gcp/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/users/gouthami-gcp)
 
+<img src="banner.jpg" alt="Gouthami Banner" width="100%" />
+
+<br/><br/>
 
 ---
 
@@ -129,6 +133,31 @@
       <td align="center" valign="middle">
         <a href="https://www.cloudskillsboost.google/public_profiles/f5b3d251-bd7b-4820-8c3c-5ab1b1c9b755/badges/12370362" target="_blank">
           <img src="https://img.shields.io/badge/Google-Verify-4285F4?style=flat-square&logo=google&logoColor=white" alt="Verify Credential"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VHGM1GXASNEU" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/50cc91fd-d223-4ef0-a512-ab251ba7e812/image.png" width="90" alt="Google Cybersecurity Professional Certificate" />
+        </a>
+      </td>
+      <td valign="middle">
+        <b>Google Cybersecurity Professional Certificate</b><br>
+        <sub>Google / Coursera</sub>
+      </td>
+      <td valign="middle">
+        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Completed"/><br>
+        📅 <b>Completed</b><br>
+        🆔 <code>VHGM1GXASNEU</code>
+      </td>
+      <td valign="middle">
+        <code>SIEM Tools</code> <code>Threat Analysis</code><br>
+        <code>Incident Response</code> <code>Python</code>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VHGM1GXASNEU" target="_blank">
+          <img src="https://img.shields.io/badge/Coursera-Verify-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Verify Credential"/>
         </a>
       </td>
     </tr>
